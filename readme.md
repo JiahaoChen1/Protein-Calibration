@@ -13,7 +13,7 @@ Torch_scatter and torch_cluster libraries depend on the specific settings for th
 
 ### Directory Structure
 ```console
---Protein-Calibration
+--Protein-Calibration-main
   -CollectedData            # calibrate our collected data
     -PAE                    # calibrate PAE metric
      ...
